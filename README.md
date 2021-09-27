@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MemoMahmoud
+- 👋 Hi, I’m Eman
 - 👀 I’m interested in Bacteriophages
 - 🌱 I’m currently learning Bioinformatics
 - 💞️ I’m looking to collaborate on Artilysins 
